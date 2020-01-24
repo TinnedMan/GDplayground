@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="code\Camera2D.cs" />
     <Compile Include="code\Maintest.cs" />
+    <Compile Include="code\menuPH.cs" />
     <Compile Include="code\player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
